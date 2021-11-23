@@ -1,0 +1,19 @@
+.light-red-bg {
+  background-color: #ffb6c1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.large-font {
+  font-size: 24px;
+}
+
+#larger-blue {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#large-green-bg {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
