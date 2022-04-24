@@ -3,8 +3,13 @@
   color: hsl(0, 100%, 50%);
 }
 
+<<<<<<< HEAD
 p.small-para {
   font-size: 12px;
+=======
+.small-para {
+  font-size: 14px;
+>>>>>>> d27b59b78b073cfea8691637ce2befd3334b5a73
 }
 
 .para {
@@ -14,13 +19,12 @@ p.small-para {
 .button.confirm {
   background: green;
   color: white;
-  font-size: 20px;
   font-weight: bold;
 }
 
 .button {
-  background-color: #ffc0cb;
-  color: black;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
@@ -31,5 +35,10 @@ p.small-para {
 
 div.text {
   color: green;
+<<<<<<< HEAD
   font-size: 28px;
 }
+=======
+  font-size: 22px;
+}
+>>>>>>> d27b59b78b073cfea8691637ce2befd3334b5a73
